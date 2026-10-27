@@ -2,7 +2,7 @@
 
 A **native Unity / Meta Quest** sports-training prototype. Return machine-fed balls toward target zones while changing speed, spin and crosswind, with a controller-mounted paddle and positional audio.
 
-[Watch the walkthrough](https://youtu.be/c6n03vLm3SU) · [Download the Quest APK](https://github.com/daniel-aguilar03/vr-table-tennis-trainer/releases/latest) · [Physics references](PARAMETERS.md)
+[Watch the walkthrough](https://youtu.be/xuSDYGRPgAA) · [Download the Quest APK](https://github.com/daniel-aguilar03/vr-table-tennis-trainer/releases/latest) · [Physics references](PARAMETERS.md)
 
 ![Table-tennis scene](Validation/scene-preview.png)
 
